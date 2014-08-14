@@ -9,6 +9,9 @@ The website uses jquery and jquerymobile to create responsive webpages with an i
 
 http://pvanb.wordpress.com/2014/06/06/a-zim-wiki-export-template-for-a-adaptive-website/
 
+## Note
+The latest Zim version (0.61) introduced a number of changes to how templates are handled by Zim. This template will therefore only work with Zim 0.6 until later notice.
+
 ## Installing the template
 
 ### Option 1
