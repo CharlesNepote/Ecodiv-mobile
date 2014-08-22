@@ -16,6 +16,7 @@ hr.divide {
 
 .ui-panel.ui-panel-open {
     position:fixed;
+    width:30em;
 }
 .ui-panel-inner {
     position: absolute;
@@ -23,7 +24,7 @@ hr.divide {
     left: 0;
     right: 0;
     bottom: 0px;
-    overflow: auto;
+    overflow: scroll;
     -webkit-overflow-scrolling: touch;
 }
 
@@ -52,8 +53,11 @@ img {
     margin-top: 1em;
 }
 
-
-
+.ui-panel-animate.ui-panel-page-content-position-left {
+    left: 13em;
+    right: 0px;
+    transform: translate3d(17em, 0px, 0px);
+}
 
 
 
