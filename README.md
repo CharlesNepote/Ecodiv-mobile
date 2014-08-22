@@ -9,7 +9,7 @@ The current template has been updated to work with Zim 0.61.If you are using Zim
 
 ## Example
 
-For examples of websites based on this template, see:
+For examples of websites created using this template, see:
 * http://notebook.ecodiv.org
 * http://maps.vegetationmap4africa.org/docs.html
 * http://www.penwatch.net/morrowind_dnd_zim/
