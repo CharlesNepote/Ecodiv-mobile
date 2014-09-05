@@ -1,7 +1,6 @@
 Ecodiv export template 4 Zim-wiki
 ==============================
 
-# A Zim export template for a responsive website
 ## Introduction
 The [Zim wiki](http://www.zim-wiki.org/) can export notebooks as websites (see the [Zim manual](http://zim-wiki.org/manual/Help/Export.html) for more information). It offers a number of nice templates for regular websites, webpages to be used in presentations, etc. A disadvantage of these default templates is that they are not really responsive, i.e., they do not adapt really well to different screen sizes. Here I provide a template that can be used to export your Zim notebook as a responsive website. 
 
