@@ -1,4 +1,4 @@
-Zim-export-template-responsive
+Ecodiv export template 4 Zim-wiki
 ==============================
 
 # A Zim export template for a responsive website
