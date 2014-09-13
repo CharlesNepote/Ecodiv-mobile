@@ -53,4 +53,4 @@ This needs to be done manually after creating the website in Zim, so not really 
 
 If you really want to use Chrome for local testing / developing your website, you can perhaps force Chrome in accepting local file links. I am not even sure if that is possible, but see e.g., https://forum.jquery.com/topic/chrome-do-not-handle-ajax-based-jquery-mobile-single-page-navigation-model.
 
-If you have suggestions or tips to solve this issue, please leave your comments here: https://github.com/ecodiv/Ecodiv-export-template-4-Zim-wiki/issues/2
+If you have suggestions or tips to solve this issue, please leave your comments here: https://github.com/ecodiv/Ecodiv-mobile/issues/2
