@@ -13,7 +13,7 @@ For examples of websites created using this template, see:
 * http://www.penwatch.net/morrowind_dnd_zim/
 
 ## Version
-The current template has been updated to work with Zim 0.61. If you are using Zim 0.60 you (1) may want to consider upgrading your Zim, or (2) use the template in the folder ecodiv60.
+The current template has been updated to work with Zim 0.61. If you are using Zim 0.60 you (1) may want to consider upgrading your Zim, or (2) use the [Ecodiv60-mobile](https://github.com/ecodiv/Ecodiv60-mobile) template.
 
 ## Adapting the template for your own use
 The template can be used as it is, but most likely you will want to make some changes. If you open the ecodiv.html file, you will see a number of comments (text between <!--  -->) with suggestions for changes to consider.
