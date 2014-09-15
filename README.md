@@ -1,10 +1,13 @@
 Ecodiv export template 4 Zim-wiki
 ==============================
 
-## Introduction
-The [Zim wiki](http://www.zim-wiki.org/) can export notebooks as websites (see the [Zim manual](http://zim-wiki.org/manual/Help/Export.html) for more information). It offers a number of nice templates for regular websites, webpages to be used in presentations, etc. A disadvantage of these default templates is that they are not really responsive, i.e., they do not adapt really well to different screen sizes. Here I provide a template that can be used to export your Zim notebook as a responsive website. 
+## Description
+Template to export your [Zim wiki](http://www.zim-wiki.org/) notebook as a website with mobile theme. See the [Zim manual](http://zim-wiki.org/manual/Help/Export.html) for more information on exporting your notebook. 
 
-It uses jquery and jquerymobile to create responsive webpages with an index in a side panel. The webpages should therefore look good on your mobile device, but also reasonable on your desktop. 
+The template uses jquery and jquerymobile to create responsive webpages with an index in a side panel. It is a mobile-first design which however also looks good on your desktop. The template offers some pointers to customize the design to fit the users need.  
+
+## Version
+The current template has been updated to work with Zim 0.61. If you are using Zim 0.60 you (1) may want to consider upgrading your Zim, or (2) use the [Ecodiv60-mobile](https://github.com/ecodiv/Ecodiv60-mobile) template.
 
 ## Example
 For examples of websites created using this template, see:
@@ -12,8 +15,10 @@ For examples of websites created using this template, see:
 * http://maps.vegetationmap4africa.org/docs.html
 * http://www.penwatch.net/morrowind_dnd_zim/
 
-## Version
-The current template has been updated to work with Zim 0.61. If you are using Zim 0.60 you (1) may want to consider upgrading your Zim, or (2) use the [Ecodiv60-mobile](https://github.com/ecodiv/Ecodiv60-mobile) template.
+Or check out the screenshots below.
+
+<a href=http://ecodiv.org/files/7914/0990/1569/Screenshot_2014-09-05-08-51-39.png><img src ="http://ecodiv.org/files/7914/0990/1569/Screenshot_2014-09-05-08-51-39.png" height=250></a>.....<a href=http://ecodiv.org/files/3614/0990/1571/Screenshot_2014-09-05-08-51-48.png><img src ="http://ecodiv.org/files/3614/0990/1571/Screenshot_2014-09-05-08-51-48.png" height=250></a>  
+_Screenshot of a webpage generated with the Ecodiv-mobile template viewed on a mobile phone, with the navigation menu closed and open._
 
 ## Adapting the template for your own use
 The template can be used as it is, but most likely you will want to make some changes. If you open the ecodiv.html file, you will see a number of comments (text between <!--  -->) with suggestions for changes to consider.
