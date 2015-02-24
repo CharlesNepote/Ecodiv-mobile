@@ -14,11 +14,6 @@ For examples of websites created using this template, see:
 * http://maps.vegetationmap4africa.org/docs.html
 * http://www.penwatch.net/morrowind_dnd_zim/
 
-Or check out the screenshots below.
-
-<a href=http://ecodiv.org/files/7914/0990/1569/Screenshot_2014-09-05-08-51-39.png><img src ="http://ecodiv.org/files/7914/0990/1569/Screenshot_2014-09-05-08-51-39.png" height=250></a>.....<a href=http://ecodiv.org/files/3614/0990/1571/Screenshot_2014-09-05-08-51-48.png><img src ="http://ecodiv.org/files/3614/0990/1571/Screenshot_2014-09-05-08-51-48.png" height=250></a>  
-_Screenshot of a webpage generated with the Ecodiv-mobile template viewed on a mobile phone, with the navigation menu closed and open._
-
 ## Adapting the template for your own use
 The template can be used as it is, but most likely you will want to make some changes. If you open the ecodiv.html file, you will see a number of comments (text between <!--  -->) with suggestions for changes to consider.
 
