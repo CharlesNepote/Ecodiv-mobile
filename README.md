@@ -11,7 +11,6 @@ The current template has been updated to work with Zim 0.61. If you are using Zi
 
 ## Example
 For examples of websites created using this template, see:
-* http://maps.vegetationmap4africa.org/docs.html
 * http://www.penwatch.net/morrowind_dnd_zim/
 
 ## Adapting the template for your own use
