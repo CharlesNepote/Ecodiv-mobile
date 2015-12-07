@@ -31,8 +31,10 @@ mkdir tempzim
 cd tempzim
 git clone https://github.com/ecodiv/Zim-export-template-responsive.git
 cd Zim-export-template-responsive
-mv ecodiv.html ~/.local/share/zim/templates/html
-mv ecodiv ~/.local/share/zim/templates/html
+mv ecodiv-mobile.html ~/.local/share/zim/templates/html
+mv ecodiv-mobile ~/.local/share/zim/templates/html
+cd
+rm -r ./tempzim
 ```
 ### Note
 * You do not need to move the ecodiv.html and ecodiv folder to the ~/.local/share/zim/templates/html folder. It is convenient as it makes the template available through the drop down menu (File --> Export) and it is available through Edit --> Template. However, when exporting you can always select a template from any location on your computer. So, if you copy the ecodiv.html and ecodiv folder to e.g., your Documents folder, you can then select the ecodiv.html from there using File --> Export menu.
